@@ -1,0 +1,41 @@
+
+
+h1{
+	margin:10;
+	padding: 3;
+	font-family: impact;
+	font-size: 58px;
+	text-align: center;
+	background-color: white;
+	color: blue;
+}
+
+
+h3{
+	margin: 5;
+	padding: 35;
+	font-family: VERDANA;
+	color: red;
+	text-align: center;
+	background-color: blue;
+	background: url(cfcc4.jpg);
+	background-position: center 20%;
+	}
+
+body{
+	margin:15;
+	padding: 3;
+	font-family: verdana;
+	font-size: 45;
+	font-weight:lighter;
+	text-align: center;
+	background: url(cfcc3.jpg);
+	background-position: center center 110%;
+
+
+}
+
+a{
+	color: #FFD100;
+	font-size: 30px;
+}
